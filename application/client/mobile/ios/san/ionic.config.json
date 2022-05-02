@@ -1,0 +1,7 @@
+{
+  "name": "san",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
